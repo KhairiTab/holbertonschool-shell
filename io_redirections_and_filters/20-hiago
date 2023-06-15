@@ -1,2 +1,2 @@
 #!/bin/bash
-sed rm "c"| "C"
+tr rm "c"| "C"
